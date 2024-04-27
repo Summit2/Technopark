@@ -1,0 +1,4 @@
+﻿  hash_table.cpp
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз1.1\hash_table\hash_table\hash_table.cpp(47): error C4716: HashTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,StringHasher>::add: должна возвращать значение
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз1.1\hash_table\hash_table\hash_table.cpp(54): error C4716: HashTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,StringHasher>::delete_cell: должна возвращать значение
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз1.1\hash_table\hash_table\hash_table.cpp(38): error C4716: HashTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,StringHasher>::has: должна возвращать значение

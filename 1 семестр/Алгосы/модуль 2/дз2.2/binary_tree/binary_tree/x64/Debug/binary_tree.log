@@ -1,0 +1,14 @@
+﻿  binary_tree.cpp
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз2.2\binary_tree\binary_tree\binary_tree.cpp(180,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз2.2\binary_tree\binary_tree\binary_tree.cpp(168): message : во время компиляции функции-члена класс шаблон "void BinaryTree<int,IntCmp>::DfsPreOrder(void (__cdecl *)(const T &)) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз2.2\binary_tree\binary_tree\binary_tree.cpp(241): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BinaryTree<int,IntCmp>::DfsPreOrder(void (__cdecl *)(const T &)) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз2.2\binary_tree\binary_tree\binary_tree.cpp(228): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinaryTree<int,IntCmp>"
+  binary_tree.vcxproj -> C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\модуль 2\дз2.2\binary_tree\x64\Debug\binary_tree.exe

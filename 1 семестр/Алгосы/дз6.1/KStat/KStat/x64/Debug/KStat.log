@@ -1,0 +1,3 @@
+﻿  KStat.cpp
+C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\дз6.1\KStat\KStat\KStat.cpp(89): warning C4715: find_k_stat<int,DefaultComparator<int> >: значение возвращается не при всех путях выполнения
+  KStat.vcxproj -> C:\Users\79252\Desktop\МГТУ\технопарк\1 семестр\Алгосы\дз6.1\KStat\x64\Debug\KStat.exe
